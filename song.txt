@@ -2,7 +2,3 @@ These are second lines
 For our song.
 
 These are other lines for you
-
-These are some
-modifications
-run run run
